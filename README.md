@@ -7,7 +7,8 @@
 
 - 🔭 I’m currently working on **Attendance app**
 - 🌱 I'm currently learning **Django**
-
+-  💬 Ask me about C, C++, Python, Java, PHP, TailwindCSS
+- 👨‍💻 All of my projects are available at https://github.com/tanvir0188
 - 📫 How to reach me **arnob0188@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
