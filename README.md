@@ -6,6 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanvir0188" alt="tanvir0188" /></a> </p>
 
 - 🔭 I’m currently working on **Attendance app**
+- 🌱 I'm currently learning **Django**
 
 - 📫 How to reach me **arnob0188@gmail.com**
 
