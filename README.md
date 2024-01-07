@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanvir0188" alt="tanvir0188" /></a> </p>
 
-- 🔭 I’m currently working on **Attendance app**
+- 🔭 I’m currently working on **Panna bitan**
 - 🌱 I'm currently learning **Django**
 -  💬 Ask me about C, C++, Python, Java, PHP, TailwindCSS
 - 👨‍💻 All of my projects are available at https://github.com/tanvir0188
