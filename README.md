@@ -8,6 +8,11 @@
 
 <br/>
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=tanvir0188&label=Profile%20views&color=0e75b6&style=flat" alt="tanvir0188" /> </p>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanvir0188" alt="tanvir0188" /></a> </p>
+
+
 <div align="center">
  
  🔭 I’m currently working on **an android app**
