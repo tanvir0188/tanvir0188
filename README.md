@@ -15,9 +15,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **an android app**
+ 🔭 I’m currently working on **School management**
  
- 🌱 I’m currently learning **Solidity**
+ 🌱 I’m currently learning **Laravel**
 
 💬 Ask me about **C++, Java, Html or anything**
 
@@ -40,7 +40,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,figma,tailwind,git" /> <br>
-    <img src="https://skillicons.dev/icons?i=python,javascript,c,java,mysql," /><br>
+    <img src="https://skillicons.dev/icons?i=python,javascript,c,java,mysql,laravel,django," /><br>
 </div>
 
 <br/>
