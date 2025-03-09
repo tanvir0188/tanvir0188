@@ -7,9 +7,6 @@
 <h3 align="center">A passionate software developer from Bangladesh BD</h3>
 </br>
 <p align="center">Welcome to my github profile. I am Arnob Tanvir, a computer science engineer in East West University from Bangladesh. I enjoy learning, problem solving and exploring new technologies.</p>
-
-<br/>
-
 <p>
     <h4>
         Notable projects: </br>
