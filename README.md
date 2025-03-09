@@ -11,9 +11,9 @@
 <br/>
 
 <p>
-    <b>
+    <h4>
         Notable projects: </br>
-    </b>
+    </h4>
     <b>Giftos:</b> A fullfledged e-commerce project built using Laravel framework, Bootstrap, Html, MySql, JavaScript.</br>
     <b>School management:</b> A school management project built using Laravel framework, REST API, Ajax, JavaScript, Bootstrap, Html, MySql, JavaScript.</br>
     <b>Music streamer:</b> A music streaming project project built using PHP, Ajax, JavaScript, Bootstrap, Html, MySql, JavaScript, Tailwind CSS.</br>
