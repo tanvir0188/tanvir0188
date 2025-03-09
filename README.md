@@ -5,8 +5,15 @@
 </h1>
 
 <h3 align="center">A passionate software developer from Bangladesh BD</h3>
-
+<hr>
+Welcome to my github profile. I am Arnob Tanvir, a computer science engineer in East West University from Bangladesh. I enjoy learning, problem solving and exploring new technologies.
 <br/>
+<p>
+    <b>
+        Notable projects: </br>
+    </b>
+    <b>Giftos:</b> A fullfledged e-commerce project built using Laravel framework, Bootstrap, Html, MySql, JavaScript.
+</p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=tanvir0188&label=Profile%20views&color=0e75b6&style=flat" alt="tanvir0188" /> </p>
 
