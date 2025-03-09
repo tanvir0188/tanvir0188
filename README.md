@@ -15,7 +15,7 @@
     <b>School management:</b> A school management project built using Laravel framework, REST API, Ajax, JavaScript, Bootstrap, Html, MySql, JavaScript.</br>
     <b>Music streamer:</b> A music streaming project project built using PHP, Ajax, JavaScript, Bootstrap, Html, MySql, JavaScript, Tailwind CSS.</br>
     <b>Food donation:</b> A complete Money and Food donation system built using PHP, JavaScript, Tailwind CSS, Bootstrap, MySql</br>
-    <b>Khaidai:</b> An e-commerce Project built using Django, Bootstrap, Html, CSS, Ajax, SqlLite.</br>
+    <b>Khaidai(in development):</b> An e-commerce Project built using Django, Bootstrap, Html, CSS, Ajax, SqlLite.</br>
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=tanvir0188&label=Profile%20views&color=0e75b6&style=flat" alt="tanvir0188" /> </p>
