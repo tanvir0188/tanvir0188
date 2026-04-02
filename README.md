@@ -25,9 +25,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **School management**
+ 🔭 I’m currently working on **Laundrymart**
  
- 🌱 I’m currently learning **Laravel**
+ 🌱 I’m currently learning **GO**
 
 💬 Ask me about **C++, Java, Html or anything**
 
