@@ -4,32 +4,34 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Arnob+Tanvir!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from Bangladesh BD</h3>
+<h3 align="center">A passionate software developer from Bangladesh</h3>
 </br>
-<p align="center">Welcome to my github profile. I am Arnob Tanvir, a computer science engineer in East West University from Bangladesh. I enjoy learning, problem solving and exploring new technologies.</p>
+<p align="center">Welcome to my GitHub profile! I'm Arnob Tanvir, a passionate Python Developer with a strong interest in AI and web development. With over 1.5 years of full-stack experience, I thrive on learning new technologies, solving complex problems, and building impactful solutions.</p>
 <p>
     <h4>
         Notable projects: </br>
     </h4>
-    <b>Giftos:</b> A fullfledged e-commerce project built using Laravel framework, Bootstrap, Html, MySql, JavaScript.</br>
-    <b>School management:</b> A school management project built using Laravel framework, REST API, Ajax, JavaScript, Bootstrap, Html, MySql, JavaScript.</br>
-    <b>Music streamer:</b> A music streaming project project built using PHP, Ajax, JavaScript, Bootstrap, Html, MySql, JavaScript, Tailwind CSS.</br>
-    <b>Food donation:</b> A complete Money and Food donation system built using PHP, JavaScript, Tailwind CSS, Bootstrap, MySql</br>
-    <b>Khaidai(in development):</b> An e-commerce Project built using Django, Bootstrap, Html, CSS, Ajax, SqlLite.</br>
+    <b><a href="https://apps.apple.com/us/app/trulii/id6755763264">Trulee</a>:</b> An Ai Powered mobile application that manages contact informations and events </br>
+    <b><a href="https://www.vacanzamycost.it/">Vacanzamycost</a>:</b> A web based SAAS project that helps users find real tour agencies for their travel plan.</br>
+    <b><a href="https://www.puremotion.co/">Puremotion</a>:</b>An AI image-to-video generation platform that lets the users turn their uploaded image into realistic video</br>
+    <b><a href="https://www.1waymirror.com/">1wayMirror</a>:</b> An AI powered SAAS learning platform for student to take quizzes and get career consultancy and career suggestions.</br>
+    <!-- <b>Giftos:</b> A fullfledged e-commerce project built using Laravel framework, Bootstrap, Html, MySql, JavaScript.</br>
+    <b>School management:</b> A school management project built using Laravel framework, REST API, Ajax, JavaScript, Bootstrap, Html, MySql, JavaScript.</br> -->
+    <b><a href="https://github.com/tanvir0188/Music-library">Music streamer</a>:</b> A music streaming project project built using PHP, Ajax, JavaScript, Bootstrap, Html, MySql, JavaScript, Tailwind CSS.
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=tanvir0188&label=Profile%20views&color=0e75b6&style=flat" alt="tanvir0188" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanvir0188" alt="tanvir0188" /></a> </p>
+<p align="center"> <a href="https://trophygithubreadmelang.cybee.dpdns.org/?username=tanvir0188&label=Profile%20views&color=0e75b6&style=flat"><img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=tanvir0188" alt="tanvir0188" /></a> </p>
 
 
 <div align="center">
  
  🔭 I’m currently working on **Laundrymart**
  
- 🌱 I’m currently learning **GO**
+ 🌱 I’m currently learning **Expressjs** and **Golang**
 
-💬 Ask me about **C++, Java, Html or anything**
+💬 Ask me about **C++, Java, Html, Expressjs, Golang, Python, PHP or anything**
 
 
  </div>
@@ -49,8 +51,26 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,figma,tailwind,git" /> <br>
-    <img src="https://skillicons.dev/icons?i=python,javascript,c,java,mysql,laravel,django," /><br>
+    <p>
+        <b>Programming Languages</b><br>
+        <img src="https://skillicons.dev/icons?i=c,cpp,python,java,go,html,css,javascript,typescript,php" />
+    </p>
+    <p>
+        <b>Frameworks</b><br>
+        <img src="https://skillicons.dev/icons?i=laravel,django,react,nextjs,expressjs,bootstrap,tailwind" />
+    </p>
+    <p>
+        <b>Databases</b><br>
+        <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,sqlite" />
+    </p>
+    <p>
+        <b>Version Control</b><br>
+        <img src="https://skillicons.dev/icons?i=git,github,gitlab" />
+    </p>
+    <p>
+        <b>Tools</b><br>
+        <img src="https://skillicons.dev/icons?i=vscode,tailwind,terraform,aws,gcp,linux,pycharm,docker,nginx,redis,postman,cloudflare" />
+    </p>
 </div>
 
 <br/>
