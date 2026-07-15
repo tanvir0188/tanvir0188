@@ -48,7 +48,7 @@
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
-<div align="center">
+<div align="start">
     <p>
         <b>Programming Languages</b><br>
         <img src="https://skillicons.dev/icons?i=c,cpp,python,java,go,html,css,javascript,typescript,php" />
