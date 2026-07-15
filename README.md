@@ -7,18 +7,15 @@
 <h3 align="center">A passionate software developer from Bangladesh</h3>
 </br>
 <p align="center">Welcome to my GitHub profile! I'm Arnob Tanvir, a passionate Python Developer with a strong interest in AI and web development. With over 1.5 years of full-stack experience, I thrive on learning new technologies, solving complex problems, and building impactful solutions.</p>
-<p>
-    <h4>
-        Notable projects: </br>
-    </h4>
-    <b><a href="https://apps.apple.com/us/app/trulii/id6755763264">Trulee</a>:</b> An Ai Powered mobile application that manages contact informations and events </br>
-    <b><a href="https://www.vacanzamycost.it/">Vacanzamycost</a>:</b> A web based SAAS project that helps users find real tour agencies for their travel plan.</br>
-    <b><a href="https://www.puremotion.co/">Puremotion</a>:</b>An AI image-to-video generation platform that lets the users turn their uploaded image into realistic video</br>
-    <b><a href="https://www.1waymirror.com/">1wayMirror</a>:</b> An AI powered SAAS learning platform for student to take quizzes and get career consultancy and career suggestions.</br>
-    <!-- <b>Giftos:</b> A fullfledged e-commerce project built using Laravel framework, Bootstrap, Html, MySql, JavaScript.</br>
-    <b>School management:</b> A school management project built using Laravel framework, REST API, Ajax, JavaScript, Bootstrap, Html, MySql, JavaScript.</br> -->
-    <b><a href="https://github.com/tanvir0188/Music-library">Music streamer</a>:</b> A music streaming project project built using PHP, Ajax, JavaScript, Bootstrap, Html, MySql, JavaScript, Tailwind CSS.
-</p>
+### Notable projects:
+
+- **[Trulee](https://apps.apple.com/us/app/trulii/id6755763264):** An AI Powered mobile application that manages contact information and events
+- **[Vacanzamycost](https://www.vacanzamycost.it/):** A web-based SAAS project that helps users find real tour agencies for their travel plan.
+- **[Puremotion](https://www.puremotion.co/):** An AI image-to-video generation platform that lets users turn their uploaded image into realistic video
+- **[1wayMirror](https://www.1waymirror.com/):** An AI-powered SAAS learning platform for students to take quizzes and get career consultancy and career suggestions.
+<!-- - **Giftos:** A fullfledged e-commerce project built using Laravel framework, Bootstrap, Html, MySql, JavaScript.
+- **School management:** A school management project built using Laravel framework, REST API, Ajax, JavaScript, Bootstrap, Html, MySql, JavaScript. -->
+- **[Music streamer](https://github.com/tanvir0188/Music-library):** A music streaming project built using PHP, Ajax, JavaScript, Bootstrap, Html, MySql, Tailwind CSS.
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=tanvir0188&label=Profile%20views&color=0e75b6&style=flat" alt="tanvir0188" /> </p>
 
