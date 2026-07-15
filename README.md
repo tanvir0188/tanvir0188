@@ -7,6 +7,7 @@
 <h3 align="center">A passionate software developer from Bangladesh</h3>
 </br>
 <p align="center">Welcome to my GitHub profile! I'm Arnob Tanvir, a passionate Python Developer with a strong interest in AI and web development. With over 1.5 years of full-stack experience, I thrive on learning new technologies, solving complex problems, and building impactful solutions.</p>
+
 ### Notable projects:
 
 - **[Trulee](https://apps.apple.com/us/app/trulii/id6755763264):** An AI Powered mobile application that manages contact information and events
